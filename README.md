@@ -16,4 +16,13 @@ Observations:
 For reference: 
 You can refer my dashboards
   1. [Dashboard - Revenue Analysis](https://public.tableau.com/app/profile/kushal4325/viz/ATLIQSalesInsights/Dashboard-Revenue?publish=yes)
+
+![image](https://user-images.githubusercontent.com/40695609/140502122-e767f232-3ff2-4936-8c43-262001afb1d2.png)
+
+
+
+
   2. [Dashboard - Profit Analysis](https://public.tableau.com/app/profile/kushal4325/viz/ATLIQSalesInsights/Dashboard-ProfitAnalysis?publish=yes)
+
+
+![image](https://user-images.githubusercontent.com/40695609/140502263-7532b0ed-b67b-4ba5-9333-f95321c417b3.png)
